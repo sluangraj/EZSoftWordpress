@@ -1,0 +1,22 @@
+# BEGIN Adaptive Images
+#=======================
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    # Watched directories
+    RewriteCond %{REQUEST_URI} /wp-content/uploads [OR]
+    RewriteCond %{REQUEST_URI} /wp-content/themes
+    # Redirect images through the adaptive images script
+    RewriteRule \.(?:jpe?g|gif|png)$ /wp-content/plugins/adaptive-images/adaptive-images-script.php [L]
+</IfModule>
+# END Adaptive Images
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

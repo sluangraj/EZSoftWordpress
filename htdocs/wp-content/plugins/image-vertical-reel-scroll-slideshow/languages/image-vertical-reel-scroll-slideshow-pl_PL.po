@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image vertical reel scroll slideshow\n"
+"POT-Creation-Date: 2015-11-19 22:53+0800\n"
+"PO-Revision-Date: 2015-11-19 22:53+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __(;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../image-vertical-reel-scroll-slideshow.php:195
+#: ../pages/image-management-add.php:120
+#: ../pages/image-management-edit.php:146
+#: ../pages/image-management-show.php:53 ../pages/image-setting.php:6
+msgid "Image vertical reel scroll slideshow"
+msgstr "Rolka przewijania obrazu w pionie pokaz slajdów"
+
+#: ../image-vertical-reel-scroll-slideshow.php:197
+#: ../pages/image-management-add.php:178
+#: ../pages/image-management-edit.php:203
+#: ../pages/image-management-show.php:137 ../pages/image-setting.php:102
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../image-vertical-reel-scroll-slideshow.php:198
+#: ../pages/image-management-add.php:179
+#: ../pages/image-management-edit.php:204
+#: ../pages/image-management-show.php:138 ../pages/image-setting.php:103
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../pages/image-management-add.php:84 ../pages/image-management-edit.php:110
+msgid "Click here to view the details"
+msgstr "Kliknij tutaj, aby zobaczyć szczegóły"
+
+#: ../pages/image-management-add.php:122
+msgid "Add new image details"
+msgstr "Dodaj nowe szczegóły obrazu"
+
+#: ../pages/image-management-add.php:123
+#: ../pages/image-management-edit.php:149
+msgid "Enter image path"
+msgstr "Wprowadź ścieżka obrazu"
+
+#: ../pages/image-management-add.php:126
+#: ../pages/image-management-edit.php:152
+msgid "Where is the picture located on the internet"
+msgstr "Gdzie jest obraz znajduje się w internecie"
+
+#: ../pages/image-management-add.php:128
+#: ../pages/image-management-edit.php:153
+msgid "Enter target link"
+msgstr "Podaj cel"
+
+#: ../pages/image-management-add.php:130
+#: ../pages/image-management-edit.php:155
+msgid "When someone clicks on the picture, where do you want to send them"
+msgstr "Gdy ktoś kliknie na obraz, gdzie chcesz wysłać"
+
+#: ../pages/image-management-add.php:131
+#: ../pages/image-management-edit.php:156
+msgid "Enter target option"
+msgstr "Cel"
+
+#: ../pages/image-management-add.php:138
+#: ../pages/image-management-edit.php:163
+msgid "Do you want to open link in new window?"
+msgstr "Czy chcesz, aby otworzyć łącze w nowym oknie?"
+
+#: ../pages/image-management-add.php:139
+#: ../pages/image-management-edit.php:164
+msgid "Enter image reference"
+msgstr "Wprowadź opis obrazu"
+
+#: ../pages/image-management-add.php:141
+#: ../pages/image-management-edit.php:166
+msgid "Enter image reference. This is only for reference."
+msgstr "Podaj wysokość obrazu. tylko numer."
+
+#: ../pages/image-management-add.php:142
+#: ../pages/image-management-edit.php:167
+msgid "Select gallery type"
+msgstr "Wybierz typ obrazu dla galerii."
+
+#: ../pages/image-management-add.php:157
+#: ../pages/image-management-edit.php:182
+msgid "This is to group the images. Select your slideshow group."
+msgstr "To jest do grupy obrazów. Wybierz grupę pokaz slajdów."
+
+#: ../pages/image-management-add.php:158
+#: ../pages/image-management-edit.php:183
+msgid "Display status"
+msgstr "Stan wyświetlacza"
+
+#: ../pages/image-management-add.php:163
+#: ../pages/image-management-edit.php:188
+msgid "Do you want the picture to show in your galler?"
+msgstr "Czy chcesz, aby pokazać obraz w Galler?"
+
+#: ../pages/image-management-add.php:164
+#: ../pages/image-management-edit.php:189
+msgid "Display order"
+msgstr "Kolejność wyświetlania"
+
+#: ../pages/image-management-add.php:166
+#: ../pages/image-management-edit.php:191
+msgid ""
+"What order should the picture be played in. should it come 1st, 2nd, 3rd, "
+"etc."
+msgstr ""
+"Co zamówić obraz powinien być odtworzony w. powinno to się 1, 2, 3, itd."
+
+#: ../pages/image-management-add.php:170
+msgid "Insert Details"
+msgstr "Wstaw Szczegóły"
+
+#: ../pages/image-management-add.php:171
+#: ../pages/image-management-edit.php:196 ../pages/image-setting.php:95
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../pages/image-management-add.php:172
+#: ../pages/image-management-edit.php:197
+#: ../pages/image-management-show.php:132 ../pages/image-setting.php:96
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../pages/image-management-edit.php:18
+msgid "Oops, selected details doesnt exist."
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/image-management-edit.php:148
+msgid "Update image details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/image-management-edit.php:195
+msgid "Update Details"
+msgstr "aktualizacja danych szczegółowych"
+
+#: ../pages/image-management-show.php:23
+msgid "Oops, selected details doesnt exist"
+msgstr "Ups, wybrane szczegóły nie istnieją."
+
+#: ../pages/image-management-show.php:54
+#: ../pages/image-management-show.php:130
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: ../pages/image-management-show.php:67 ../pages/image-management-show.php:78
+msgid "Type/Group"
+msgstr "Wybierz typ obrazu dla galerii."
+
+#: ../pages/image-management-show.php:68 ../pages/image-management-show.php:79
+msgid "Reference"
+msgstr "Nr ref."
+
+#: ../pages/image-management-show.php:69 ../pages/image-management-show.php:80
+msgid "URL"
+msgstr ""
+
+#: ../pages/image-management-show.php:70 ../pages/image-management-show.php:81
+msgid "Target"
+msgstr ""
+
+#: ../pages/image-management-show.php:71 ../pages/image-management-show.php:82
+msgid "Order"
+msgstr ""
+
+#: ../pages/image-management-show.php:72 ../pages/image-management-show.php:83
+msgid "Display"
+msgstr ""
+
+#: ../pages/image-management-show.php:101
+msgid "Edit"
+msgstr ""
+
+#: ../pages/image-management-show.php:104
+msgid "Delete"
+msgstr ""
+
+#: ../pages/image-management-show.php:120
+msgid "No records available."
+msgstr ""
+
+#: ../pages/image-management-show.php:131 ../pages/image-setting.php:7
+msgid "Widget Setting"
+msgstr ""
+
+#: ../pages/image-setting.php:42
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../pages/image-setting.php:50
+msgid "Enter widget title"
+msgstr ""
+
+#: ../pages/image-setting.php:52
+msgid "Enter widget title, Only for widget."
+msgstr ""
+
+#: ../pages/image-setting.php:54
+msgid "Display image count (Only number)"
+msgstr ""
+
+#: ../pages/image-setting.php:56
+msgid "No of images you want to display at the same time."
+msgstr ""
+
+#: ../pages/image-setting.php:58
+msgid "Height of each image"
+msgstr ""
+
+#: ../pages/image-setting.php:60
+msgid "Height of each images in the gallery."
+msgstr ""
+
+#: ../pages/image-setting.php:62
+msgid "Random order"
+msgstr ""
+
+#: ../pages/image-setting.php:64
+msgid "Image display random order."
+msgstr ""
+
+#: ../pages/image-setting.php:66
+msgid "Select your gallery group (Gallery  Type)"
+msgstr ""
+
+#: ../pages/image-setting.php:82
+msgid ""
+"This field is to group the images. Select your group name to fetch the "
+"images for widget."
+msgstr ""
+
+#: ../pages/image-setting.php:84
+msgid "Scrolling speed"
+msgstr ""
+
+#: ../pages/image-setting.php:85
+msgid "Slow"
+msgstr ""
+
+#: ../pages/image-setting.php:87
+msgid "Fast"
+msgstr ""
+
+#: ../pages/image-setting.php:88
+msgid "Set how fast you want to scroll."
+msgstr ""
+
+#: ../pages/image-setting.php:90
+msgid "Seconds to wait"
+msgstr ""
+
+#: ../pages/image-setting.php:92
+msgid "How many seconds you want the wait to scroll"
+msgstr ""
+
+#: ../pages/image-setting.php:92
+msgid "Example"
+msgstr ""
+
+#: ../pages/image-setting.php:94
+msgid "Submit"
+msgstr ""
+
+#~ msgid ""
+#~ "No image availabe for the mentioned group! please check the short code."
+#~ msgstr ""
+#~ "Brak dostępnej obrazu dla wspomnianej grupy! sprawdź krótkiego kodu."
+
+#~ msgid "Please enter the image path."
+#~ msgstr "Image path (URL)"
+
+#~ msgid "Please enter the target link."
+#~ msgstr "Cel linku"
+
+#~ msgid "New image details was successfully added."
+#~ msgstr "Nowe szczegóły została pomyślnie dodana."
+
+#~ msgid "Image details was successfully updated."
+#~ msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#~ msgid "Selected record was successfully deleted."
+#~ msgstr "Wybrany rekord został pomyślnie usunięty."
